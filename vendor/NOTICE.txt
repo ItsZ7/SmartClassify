@@ -1,0 +1,5 @@
+TensorFlow.js 1.7.4 — Copyright 2018 Google LLC. Apache License 2.0.
+https://github.com/tensorflow/tfjs
+Teachable Machine Image 0.8.5 — Copyright Google LLC. Apache License 2.0.
+https://github.com/googlecreativelab/teachablemachine-community
+Original distribution copyright notices are retained within each JavaScript bundle.
