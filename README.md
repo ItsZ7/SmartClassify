@@ -107,7 +107,7 @@ Berdasarkan pengujian kumpulan:
 - Reset: berfungsi.
 - API: berjaya mengembalikan ramalan bagi ketiga-tiga kelas.
 
-## Ahli Kumpulan dan Sumbangan
+## Ahli Kumpulan
 
 | Nama |
 |---|
