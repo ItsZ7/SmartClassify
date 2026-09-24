@@ -1,7 +1,7 @@
 'use strict';
 const $ = id => document.getElementById(id);
 // FastAPI mode: the UI and API are served by the same Uvicorn process.
-const USE_API = true;
+const USE_API = false;
 const API_BASE_URL = '';
 // Browser fallback remains available if USE_API is changed to false.
 const MODEL_BASE_URL = './model/';
