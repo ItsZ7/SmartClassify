@@ -109,8 +109,8 @@ Berdasarkan pengujian kumpulan:
 
 ## Ahli Kumpulan dan Sumbangan
 
-| Nama | Sumbangan |
-|---|---|
+| Nama |
+|---|
 | Muhammad Farizd Miqkhail bin Mohd Fazli |
 | Faiz Hakimi bin Mohamad Kamar Sharil |
 | Ajmal Hifzi bin Ahmad Suhaili |
